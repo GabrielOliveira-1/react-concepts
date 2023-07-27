@@ -43,8 +43,8 @@ const concepts = [
 const App = () => {
   return (
     <div>
-      <Headers header={headers}></Headers>
-      <Concepts concept={concepts}></Concepts>
+      <Headers header={headers} />
+      <Concepts concept={concepts} />
     </div>
   );
 };

@@ -3,7 +3,7 @@ const ConceptItem = (props) => {
     <div>
       <ul id="concepts">
         <li className="concept">
-          <img src={props.image} alt={props.image.name} />
+          <img src={props.image} alt={props.title} />
           <h2>{props.title}</h2>
           <p>{props.desc}</p>
         </li>
