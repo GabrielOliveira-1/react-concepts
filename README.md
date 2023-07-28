@@ -7,12 +7,10 @@ To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Install the required dependencies by running the following command:
-   npm install
+3. Install the required dependencies by running the "npm install" command.
    
 ## Usage
-Once the installation is complete, you can start the development server by running:
-  npm start
+Once the installation is complete, you can start the development server by running "npm start".
 
 The application will be accessible at localhost in your web browser.
 
